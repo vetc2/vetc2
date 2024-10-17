@@ -86,3 +86,13 @@
 <img src="https://raw.githubusercontent.com/vetc2/vetc2/output/snake.svg" alt="Snake animation" />
 
 ###
+
+### 🖥️ Open-Source Project
+<table align="center">
+<tr><th>Computer Vision Project</th></tr>
+<tr><td>
+
+|Title | Stars | Tech|
+|--|--|--|
+| [YOLOv8 Based Human Tracking <br>  System for Autonomous Wheelchairs](https://github.com/AgungHari/YOLOv8-Based-Human-Tracking-System-for-Autonomous-Wheelchairs) | <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AgungHari/YOLOv8-Based-Human-Tracking-System-for-Autonomous-Wheelchairs?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) ![Roboflow](https://img.shields.io/badge/Roboflow-black?style=flat-square&logo=roboflow) <br> ![MediaPipe](https://img.shields.io/badge/MediaPipe-black?style=flat-square&logo=mediapipe) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
+</td></tr> </table>
